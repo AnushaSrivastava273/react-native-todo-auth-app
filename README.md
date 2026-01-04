@@ -53,7 +53,6 @@ TypeScript	Type Safety
 Firebase Authentication	User Login / Registration
 Firebase Realtime Database	Task Storage
 Context API	State Management
-📂 Project Structure
 src/
  ├── context/
  │   ├── AuthContext.tsx
@@ -67,6 +66,7 @@ src/
  │   └── Task.ts
  └── services/
      └── firebase.example.ts
+
 
 ⚙ Setup Instructions
 
