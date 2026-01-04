@@ -1,10 +1,10 @@
-📱 React Native To-Do App with Firebase Authentication
+#📱 React Native To-Do App with Firebase Authentication
 
-A modern, Duolingo-style To-Do mobile application built using React Native CLI, TypeScript and Firebase.
+A modern **To-Do mobile application** built using **React Native CLI, TypeScript and Firebase.**
 The app allows users to securely manage their daily tasks with deadlines, priorities and real-time synchronization.
 
-🚀 Features
-🔐 Authentication
+##🚀 Features
+##🔐 Authentication
 
 Email & Password Registration
 
@@ -12,7 +12,7 @@ Secure Login & Logout
 
 Firebase Authentication integration
 
-📝 Task Management
+##📝 Task Management
 
 Add tasks with:
 
@@ -30,7 +30,7 @@ Delete tasks
 
 Each user has isolated task data
 
-📊 Smart Sorting Logic
+**📊 Smart Sorting Logic**
 
 Tasks are automatically sorted using a mixed algorithm:
 
@@ -38,7 +38,7 @@ Tasks are automatically sorted using a mixed algorithm:
 2. Higher priority first
 3. Earlier deadlines first
 
-🎨 User Interface
+##🎨 User Interface
 
 Duolingo-style soft green theme
 
@@ -46,7 +46,7 @@ Clean card-based layout
 
 Minimal and friendly UX
 
-🛠 Tech Stack
+##🛠 Tech Stack
 Technology	Usage
 React Native CLI	Mobile Framework
 TypeScript	Type Safety
@@ -68,7 +68,7 @@ src/
      └── firebase.example.ts
 
 
-⚙ Setup Instructions
+##⚙ Setup Instructions
 
 Clone the repository and install dependencies:
 
@@ -90,11 +90,11 @@ firebase.ts
 
 and add your Firebase project credentials.
 
-📽 Demo
+##📽 Demo
 
 The demo video and APK file are shared via Google Drive as part of the assignment submission.
 
-🌟 Bonus Implemented
+##🌟 Bonus Implemented
 
 Priority & deadline based sorting algorithm
 
@@ -104,7 +104,7 @@ Firebase realtime synchronization
 
 User-specific task isolation
 
-🙌 Author
+##🙌 Author
 
 Anusha Srivastava
 B.Tech CSE – BIT Mesra
